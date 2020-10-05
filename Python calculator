@@ -1,4 +1,3 @@
-#We are making a Calculator
 from tkinter import *
 class Calculator:
     def _init_(self, master):
